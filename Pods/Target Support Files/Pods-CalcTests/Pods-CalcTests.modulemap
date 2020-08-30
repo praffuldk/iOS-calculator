@@ -1,0 +1,6 @@
+framework module Pods_CalcTests {
+  umbrella header "Pods-CalcTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
